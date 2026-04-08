@@ -104,7 +104,7 @@ Diff 预览后安全应用到本地代码。
 	<img src="https://bugstack.cn/images/article/project/ai-agent-scaffold/part-1/1-1/images/ai-agent-scaffold-1-1-10.png" width="650px"/>
 </div>
 
-小傅哥的社群星球「码农会锁」，现已经有20个实战项目，6个AI、5个业务、8个组件 + 1套源码（MyBatis），这6个AI项目，你可以按需选择学习。
+小傅哥的社群星球「码农会锁」，现已经有20个实战项目，6个AI、5个业务、8个组件 + 1套源码（MyBatis），这6个AI项目，你可以按需选择学习。[项目地址 Go!](https://bugstack.cn/md/project/ai-agent-scaffold/ai-agent-scaffold.html)
 
 
 
