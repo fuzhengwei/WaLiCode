@@ -106,5 +106,33 @@ Diff 预览后安全应用到本地代码。
 
 小傅哥的社群星球「码农会锁」，现已经有20个实战项目，6个AI、5个业务、8个组件 + 1套源码（MyBatis），这6个AI项目，你可以按需选择学习。[项目地址 Go!](https://bugstack.cn/md/project/ai-agent-scaffold/ai-agent-scaffold.html)
 
+## 四、环境要求
+
+| 依赖 | 最低版本 | 说明 |
+|------|---------|------|
+| Node.js | 18+ | 前端构建所需 |
+| Rust | 1.70+ | Tauri 后端编译所需 |
+| Tauri CLI | 2.x | 应用打包与运行 |
+| Git | 2.30+ | 内置 Git 功能所需 |
+
+### 系统支持
+
+- **macOS**：Intel / Apple Silicon 均支持
+- **Windows**：Windows 10 及以上
+- **Linux**：主流发行版（Ubuntu 20.04+、Fedora 36+ 等）
+
+## 五、常见问题（FAQ）
+
+**Q：安装后打开白屏怎么办？**
+A：请检查是否安装了系统 WebView 组件。Windows 用户需要确保已安装 [WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)，Linux 用户需要安装 `webkit2gtk`。
+
+**Q：模型配置后对话没有响应？**
+A：请确认 API Key 是否正确填写，以及网络是否能正常访问对应的模型服务商接口。可以在终端中用 `curl` 测试接口连通性。
+
+**Q：支持哪些模型？**
+A：支持所有兼容 OpenAI API 格式的模型服务，包括但不限于 OpenAI、智谱 GLM、火山引擎豆包、本地部署的 Ollama 等。
+
+**Q：如何反馈 Bug 或提出建议？**
+A：可以在 [GitHub Issues](https://github.com/fuzhengwei/WaLiCode/issues) 中提交，也可以扫码加入群聊交流。
 
 
