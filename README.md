@@ -1,8 +1,9 @@
 # WaLiCode - 小傅哥出品，研发自己人的 AI IDE Coding !
 
 作者：小傅哥
-<br/>官网：[https://walicode.xiaofuge.cn](https://walicode.xiaofuge.cn/)
+<br/>官网：[https://walicode.xiaofuge.cn](https://walicode.xiaofuge.cn/) - 可以下载安装包，有最新版！
 <br/>项目：[WaLiSSH - AI Shell 智能终端](https://bugstack.cn/md/project/walissh/walissh.html) - 与 walicode 相同设计，可以获得源码，学习实战项目。
+
 
 > 沉淀、分享、成长，让自己和他人都能有所收获！😄
 
