@@ -2,6 +2,7 @@
 
 作者：小傅哥
 <br/>官网：[https://walicode.xiaofuge.cn](https://walicode.xiaofuge.cn/)
+<br/>项目：[WaLiSSH - AI Shell 智能终端](https://bugstack.cn/md/project/walissh/walissh.html) - 与 walicode 相同设计，可以获得源码，学习实战项目。
 
 > 沉淀、分享、成长，让自己和他人都能有所收获！😄
 
